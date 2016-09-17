@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\ClassPractice\bin\Debug\GC_ClassroomLibrary.dll
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\ClassPractice\bin\Debug\GC_ClassroomLibrary.pdb
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\ClassPractice\obj\Debug\GC_ClassroomLibrary.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\ClassPractice\obj\Debug\GC_ClassroomLibrary.dll
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\ClassPractice\obj\Debug\GC_ClassroomLibrary.pdb

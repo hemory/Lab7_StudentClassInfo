@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\bin\Debug\CreateAClassroom.exe.config
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\bin\Debug\CreateAClassroom.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\bin\Debug\CreateAClassroom.pdb
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\bin\Debug\GC_ClassroomLibrary.dll
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\bin\Debug\GC_ClassroomLibrary.pdb
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\obj\Debug\CreateAClassroom.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\obj\Debug\CreateAClassroom.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassPractice\CreateAClassroom\obj\Debug\CreateAClassroom.pdb
